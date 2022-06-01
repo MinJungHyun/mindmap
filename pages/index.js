@@ -157,10 +157,12 @@ const EdgesFlow = () => {
     dagre.layout(g);
     g.nodes().forEach(function (v, i) {
       // console.log("Node " + v + ": " + JSON.stringify(g.node(v)));
-      myNodes[i].position = {
-        x: g.node(v).x,
-        y: g.node(v).y,
-      };
+      if (g.node(v)) {
+        myNodes[i].position = {
+          x: g.node(v).x,
+          y: g.node(v).y,
+        };
+      }
     });
     // g.edges().forEach(function (e) {
     //   console.log("Edge " + e.v + " -> " + e.w + ": " + JSON.stringify(g.edge(e)));

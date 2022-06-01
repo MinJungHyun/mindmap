@@ -1,0 +1,1097 @@
+{
+  "body": [
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "1",
+          "form": { "text": "성장 체크 [교육편]", "type": "title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Title",
+          "component_no": 2
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 5 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 4
+        },
+        {
+          "id": "2",
+          "form": { "text": "우리 댕댕이 기본 교육 잘 되고 있는지", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 18
+        },
+        {
+          "id": "2",
+          "form": { "text": "확인해 볼까요💘 ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 19
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "11",
+          "form": { "base": 13, "type": "visitor" },
+          "type": "component",
+          "group": "Function",
+          "enable": true,
+          "description": "# Visitor",
+          "component_no": 10
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 6
+        },
+        {
+          "id": "18",
+          "form": {
+            "type": "image",
+            "width": 600,
+            "height": 500
+          },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Image",
+          "component_no": 5
+        },
+        {
+          "id": "2",
+          "form": { "text": "💘교육의 기초편 ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 20
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 8
+        },
+        {
+          "id": "12",
+          "form": { "text": "시작하기", "type": "normal_button", "action_info": { "type": "move", "page_index": 1 } },
+          "type": "component",
+          "group": "Button",
+          "enable": true,
+          "description": "Normal Button",
+          "component_no": 7
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 50 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 17
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 1
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "우리 강아지 행동을 ", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 2
+        },
+        {
+          "id": "16",
+          "form": { "text": "아래 내용에서 체크해 주세요!", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 8
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 6
+        },
+        {
+          "id": "2",
+          "form": { "text": "행복한 반려생활에는 강아지의  ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 10
+        },
+        {
+          "id": "2",
+          "form": { "text": "기본 교육이 필요해요. ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 20
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "16",
+          "form": { "text": "1. '이름 알기'", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 14
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 19
+        },
+        {
+          "id": "2",
+          "form": { "text": "우리 강아지는 자기 '이름'을 알아요.", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 18
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "4",
+          "form": {
+            "type": "single_choice",
+            "choice_list": [
+              {
+                "text": "이름을 부르면 집중하고 알고 와요!",
+                "score": 1,
+                "action_info": { "type": "move", "page_index": 2 }
+              },
+              { "text": "이름을 불러도 잘 몰라요!", "score": 1, "action_info": { "type": "move", "page_index": 7 } }
+            ],
+            "choice_count": { "max": 1, "min": 1 }
+          },
+          "type": "component",
+          "group": "Choices",
+          "enable": true,
+          "description": "Single Choice",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 13
+        },
+        {
+          "id": "2",
+          "form": { "text": "3개월 이상, 교육이 가능해요.  ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 16
+        },
+        {
+          "id": "2",
+          "form": { "text": "2개월까지는 사회성 시기라 무리한", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 17
+        },
+        {
+          "id": "2",
+          "form": { "text": "교육 보다는 보살핌이 중요해요💤", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 21
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 8
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "성장 체크 [교육편]", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 2
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 6
+        },
+        {
+          "id": "2",
+          "form": { "text": "행복한 반려생활 ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 10
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "16",
+          "form": { "text": "2. '눈 마주치기'", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 14
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 19
+        },
+        {
+          "id": "2",
+          "form": { "text": "우리 강아지는 내 눈을 봐요.", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 18
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "4",
+          "form": {
+            "type": "single_choice",
+            "choice_list": [
+              {
+                "text": "이름을 부르면 내눈을 쳐다봐요!",
+                "score": 1,
+                "action_info": { "type": "move", "page_index": 3 }
+              },
+              { "text": "눈을 마주치면 피해요!", "score": 1, "action_info": { "type": "move", "page_index": 8 } }
+            ],
+            "choice_count": { "max": 1, "min": 1 }
+          },
+          "type": "component",
+          "group": "Choices",
+          "enable": true,
+          "description": "Single Choice",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 13
+        },
+        {
+          "id": "2",
+          "form": { "text": "3개월 된 강아지의 교육입니다. ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 16
+        },
+        {
+          "id": "2",
+          "form": { "text": "2개월까지는 사회성 시기라 무리한", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 17
+        },
+        {
+          "id": "2",
+          "form": { "text": "교육 보다는 보살핌이 중요해요💤", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 20
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 2
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "성장 체크 [교육편]", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 22
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 23
+        },
+        {
+          "id": "2",
+          "form": { "text": "행복한 반려생활", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 21
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "16",
+          "form": { "text": "3. '앉아'", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 14
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 19
+        },
+        {
+          "id": "2",
+          "form": { "text": "우리 강아지는 '앉아'를 이해해요.", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 18
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "4",
+          "form": {
+            "type": "single_choice",
+            "choice_list": [
+              {
+                "text": " 5분 ~ 10분 이상 앉아 있을 수 있어요!",
+                "score": 1,
+                "action_info": { "type": "move", "page_index": 4 }
+              },
+              { "text": "앉아를 잘 하지 못해요!", "score": 1, "action_info": { "type": "move", "page_index": 9 } }
+            ],
+            "choice_count": { "max": 1, "min": 1 }
+          },
+          "type": "component",
+          "group": "Choices",
+          "enable": true,
+          "description": "Single Choice",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 13
+        },
+        {
+          "id": "2",
+          "form": { "text": "3개월 된 강아지의 교육입니다. ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 16
+        },
+        {
+          "id": "2",
+          "form": { "text": "2개월까지는 사회성 시기라 무리한 ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 17
+        },
+        {
+          "id": "2",
+          "form": { "text": "교육 보다는 보살핌이 중요해요💤", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 20
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 7
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "성장 체크 [교육편]", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 22
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 6
+        },
+        {
+          "id": "2",
+          "form": { "text": "행복한 반려생활", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 21
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "16",
+          "form": { "text": "4. '엎드려'", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 14
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 19
+        },
+        {
+          "id": "2",
+          "form": { "text": "우리 강아지는 '엎드려'를 이해해요.", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 18
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "4",
+          "form": {
+            "type": "single_choice",
+            "choice_list": [
+              { "text": "'엎드려'를 잘 해요!", "score": 1, "action_info": { "type": "move", "page_index": 5 } },
+              { "text": "'엎드려'를 할 줄 몰라요!", "score": 1, "action_info": { "type": "move", "page_index": 10 } }
+            ],
+            "choice_count": { "max": 1, "min": 1 }
+          },
+          "type": "component",
+          "group": "Choices",
+          "enable": true,
+          "description": "Single Choice",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 13
+        },
+        {
+          "id": "2",
+          "form": { "text": "3개월 된 강아지의 교육입니다. ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 16
+        },
+        {
+          "id": "2",
+          "form": { "text": "2개월까지는 사회성 시기라 무리한", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 17
+        },
+        {
+          "id": "2",
+          "form": { "text": "교육 보다는 보살핌이 중요해요💤", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 23
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 11
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "성장 체크 [교육편]", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 21
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 6
+        },
+        {
+          "id": "2",
+          "form": { "text": "행복한 반려생활", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 22
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "16",
+          "form": { "text": "5. '기다려'", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 14
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 19
+        },
+        {
+          "id": "2",
+          "form": { "text": "기다리는 시간이 조금씩 늘어요.", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 20
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "4",
+          "form": {
+            "type": "single_choice",
+            "choice_list": [
+              { "text": "잘 기다려요!", "score": 1, "action_info": { "type": "move", "page_index": 6 } },
+              {
+                "text": "기다려를 하지만 짧고 산만해요!",
+                "score": 1,
+                "img_url": null,
+                "action_info": { "type": "move", "page_index": 11 }
+              }
+            ],
+            "choice_count": { "max": 1, "min": 1 }
+          },
+          "type": "component",
+          "group": "Choices",
+          "enable": true,
+          "description": "Single Choice",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 13
+        },
+        {
+          "id": "2",
+          "form": { "text": "3개월 된 강아지의 교육입니다. ", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 16
+        },
+        {
+          "id": "2",
+          "form": { "text": "2개월까지는 사회성 시기라 무리한", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 17
+        },
+        {
+          "id": "2",
+          "form": { "text": "교육 보다는 보살핌이 중요해요💤", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 23
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 13
+    },
+    {
+      "body": [
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 2
+        },
+        {
+          "id": "2",
+          "form": { "text": "성장 체크 [교육편]", "type": "sub_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Sub Title",
+          "component_no": 3
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 5 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 4
+        },
+        {
+          "id": "16",
+          "form": { "text": "기본 교육이 되어야", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 1
+        },
+        {
+          "id": "16",
+          "form": { "text": "행복한 반려 생활이 됩니다.", "type": "question_title", "align": "center" },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Question Title",
+          "component_no": 21
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 5
+        },
+        {
+          "id": "18",
+          "form": {
+            "type": "image",
+            "width": 600,
+            "height": 500
+          },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Image",
+          "component_no": 6
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 7
+        },
+        {
+          "id": "24",
+          "form": {
+            "text": "강아지 교육이 생각보다 어려운 부분이 있습니다. 이는 강아지도 생명이고 다양한 성향을 갖고 있기 때문입니다. 3개월 이상된 강아지에게도 5분이 길 수도 있습니다. 눈을 맞추고 칭찬을 한다면 즐거운 교육이 될 수 있습니다. 간혹 교육이 안된다면 기본적인 이름 알기, 눈 마주치기가 되었는지 기본부터 체크해 보시면 도움이 됩니다. ",
+            "type": "text",
+            "align": "left"
+          },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Text",
+          "component_no": 22
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 23
+        },
+        {
+          "id": "24",
+          "form": {
+            "text": "강아지의 1개월 ~ 2개월은 교육보다는 사회에 대한 즐거운 경험을 해야 합니다. 3개월부터는 이후 성장하며 반려인과 반려인이 살고 있는 사회에 적응하고 살아가야 합니다. ",
+            "type": "text",
+            "align": "justify"
+          },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Text",
+          "component_no": 12
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 14
+        },
+        {
+          "id": "24",
+          "form": {
+            "text": "기본적인 기다려, 엎드려, 이리와 그리고 산책 교육은 반려 생활에 있어 매우 중요합니다. 입양부터 약 6개월이 매우 중요하며 이 시기에 세상에 대한 긍정과 부드러움 그리고 규칙을 익히는 것이 육아에 매우 중요합니다.",
+            "type": "text",
+            "align": "justify"
+          },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Text",
+          "component_no": 17
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 15 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 15
+        },
+        {
+          "id": "24",
+          "form": {
+            "text": "강아지들은 영리하고, 지적이며 매우 반려인을 사랑하고 관심이 많습니다. 이런 긍정적이고 사랑스러운 에너지를 잘 활용해서 행복한 교육을 해 주세요. 다만 강아지들도 성향이 다양합니다. 빠르게 배우는 아이도 있고 천천히 배우는 아이도 있습니다. 성향을 파악해서 꾸준히 해 주시는 것이 중요합니다. ",
+            "type": "text",
+            "align": "left"
+          },
+          "type": "component",
+          "group": "Text",
+          "enable": true,
+          "description": "Text",
+          "component_no": 16
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 30 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 9
+        },
+        {
+          "id": "17",
+          "form": {
+            "type": "two_buttons",
+            "button_list": [
+              {
+                "text": "다시하기",
+                "type": "normal_button",
+                "icon_url": null,
+                "action_info": { "type": "move", "page_index": 1 }
+              },
+              {
+                "text": "공유하기",
+                "type": "sub_button",
+                "icon_url": null,
+                "action_info": { "text": "공유하기", "type": "share" }
+              }
+            ]
+          },
+          "type": "component",
+          "group": "Button",
+          "enable": true,
+          "description": "Two Buttons",
+          "component_no": 18
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 40 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 11
+        },
+        {
+          "id": "10",
+          "form": {
+            "type": "app_download",
+            "title": "반려동물을 위한 맞춤 추천 No.1 ",
+            "description": "강아지, 고양이 키울 때 만나는 슬기로운 육아 앱 지금 바로 다운로드 받아보세요!"
+          },
+          "type": "component",
+          "group": "Function",
+          "enable": true,
+          "description": "App Download",
+          "component_no": 19
+        },
+        {
+          "id": "25",
+          "form": { "type": "blank", "height": 20 },
+          "type": "component",
+          "group": "Decoration",
+          "enable": true,
+          "description": "Blank",
+          "component_no": 20
+        }
+      ],
+      "context": { "background_image": { "left": null, "right": null } },
+      "page_no": 19
+    }
+  ]
+}
